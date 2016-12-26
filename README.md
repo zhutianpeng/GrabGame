@@ -1,6 +1,4 @@
-# medicalGame
-it is repository to store SpaceShooter game.
-Some function added:
-1.Scoring, MissValue, TotalValue.
-2.Speed select function:   easy model, normal model,  hard model.
-3.Special model for parctice: Practice Model, allow users control the object in "left-right-left-right-..." gesture.
+GrabGame 
+==== 
+it is a game demo which is not finished. The components are a ball and a hand model.<br> 
+I add the sphere collider to ball. And add one box collider to each Knuckle.
